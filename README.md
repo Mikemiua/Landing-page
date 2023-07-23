@@ -2,4 +2,4 @@
 
 Just a little project from TheOdinProject, mainly using Flexbox.
 
-Live page: https://mikemiua.github.io/Landing-page/
+Live web: https://mikemiua.github.io/Landing-page/
